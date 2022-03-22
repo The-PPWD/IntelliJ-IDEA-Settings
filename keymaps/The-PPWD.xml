@@ -15,7 +15,4 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
-  <action id="Hotswap">
-    <keyboard-shortcut first-keystroke="alt f11" />
-  </action>
 </keymap>
